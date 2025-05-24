@@ -1,0 +1,53 @@
+Problemática:
+Suponha que a função represente o movimento das ondas do mar em uma praia após o impacto de uma única onda maior, 
+como quando um barco passa ao longe. A função 
+𝑓
+(
+𝑥
+)
+=
+𝑒
+−
+𝑥
+/
+5
+⋅
+sin
+⁡
+(
+3
+𝑥
+)
++
+0.5
+⋅
+sin
+⁡
+(
+𝑥
+)
+f(x)=e 
+−x/5
+ ⋅sin(3x)+0.5⋅sin(x) pode descrever como as ondas secundárias menores, de diferentes frequências, 
+ continuam a se propagar e perdem força gradualmente. Mesmo tendo a função matemática que modela esse comportamento, 
+ ela não traduz diretamente o estado real da praia em diferentes momentos, como: “está seguro para nadar?”, “é o melhor 
+ momento para coletar água?”, ou “é o início de um padrão anormal de maré?”. A natureza não é binária, e as transições 
+ entre "calmo" e "agitado" são sutis. Nesse caso, um sistema fuzzy é útil para interpretar o que a função significa em 
+ termos de risco, conforto ou aproveitamento, aplicando regras do tipo: “Se a amplitude está diminuindo e a frequência 
+ baixa domina, então o mar está estabilizando”. Assim, mesmo com a função conhecida, o fuzzy transforma uma equação em 
+ decisões compreensíveis e adaptáveis ao mundo real.
+
+Sendo x E [0, 10]:
+
+ f(x)<−0.5         Antes da onda	        Sem risco
+−0.5<f(x)<−0.25	Início da perturbação	Risco leve
+−0.25<f(x)<0.25	Turbulência máxima	    Risco extremo
+0.25<f(x)<0.5      Ondas diminuindo    	Risco moderado
+f(x)>0.5           Mar se acalmando	    Risco leve ou sem risco
+
+
+Pegar todos os valores de x e mapear as saídas y possíveis em variáveis linguísticas
+
+= []
+
+= []

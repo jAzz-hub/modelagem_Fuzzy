@@ -1,0 +1,27 @@
+Para escolha de um modelo Fuzzy:
+
+1º Cria-se uma amostragem que servirá como entrada
+
+2º Define se a função que será modelada pode ser conhecida e vista ou não
+
+3º Cria-se uma visualização(Considere gerar o máximo de intervalos possíveis)
+
+4º Diga em texto como ela se comporta para cada um desses intervalos
+
+5º Escolha se seu modelo vai ser de ordem 1 ou 0
+
+6º  Defina as variáveis linguísticas para seu conjunto fuzzy
+    Crie as funções de pertinencia
+        - Quantos conjuntos Fuzzy vai usar?
+        - Quais são eles?
+        - Para cada conjunto crie uma função de pertinência triangular ou trapezoidal
+        - Funções devem cobrir todo o intervalo de x com sobreposição suave.
+        - Para cada valor de x considere que haverá uma lista com todos os graus de pertencimento de cada conjunto.
+        
+
+7º 
+
+8º 
+
+9º 
+
