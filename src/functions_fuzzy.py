@@ -4,7 +4,7 @@ from math import e, pow, sin
 import numpy as np
 
 def func_nao_linear(x):
-    return pow(e, (-x/5)) + 0.5 * sin(x)
+    return np.exp(-x/5) + 0.5 * np.sin(x)
 
 
 
