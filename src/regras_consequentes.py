@@ -21,3 +21,6 @@ n2_Sobe_suavemente_2 = {'p': 0.607, 'q': -3.058 }#n2
 o_Sobe = {'p': 0.96, 'q':-4.45} #o
 p1_plato= {'p': 0.4, 'q': -1.963} #p1
 p2_desce_muito_suavemente_2 = {'p': -0.4, 'q': 1.773} #p2
+
+r_Sobe_suavemente_3 ={'p': 0.48, 'q': -3.27} #r
+s_Sobe_abruptamente = {'p':1.3, 'q': -8.17} #s
