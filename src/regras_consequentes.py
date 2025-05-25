@@ -24,3 +24,12 @@ p2_desce_muito_suavemente_2 = {'p': -0.4, 'q': 1.773} #p2
 
 r_Sobe_suavemente_3 ={'p': 0.48, 'q': -3.27} #r
 s_Sobe_abruptamente = {'p':1.3, 'q': -8.17} #s
+
+t_Sobe_suavemente_3 ={'p': 0.48, 'q': -3.27} #r
+u_Sobe_abruptamente = {'p':1.3, 'q': -8.17} #s
+v_Sobe_suavemente_3 ={'p': -0.062, 'q': 0.8} #r
+w_Sobe_abruptamente = {'p':0.307, 'q': -2.148} #s
+
+a_Sobe_suavemente_3 ={'p': -0.198, 'q': 2.19} #a
+b_Sobe_abruptamente = {'p':-0.8804, 'q': 8.302} #b
+c_Sobe_abruptamente = {'p':-0.675, 'q': 6.318} #c
