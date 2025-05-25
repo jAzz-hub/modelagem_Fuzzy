@@ -14,31 +14,10 @@ l_Desce_muito_suavemente = {'p':-1.73, 'q':5.5} #l # Cobre 2.5-3
 
 m_Desce_Abruptamente = {'p': -1.78, 'q': 5.57} #m  # Cobre 3-3.5
 
-n1_Desce_muito_muito_suavemente_2 = {'p': , 'q':}#n1
-n2_Sobe_suavemente_2 = {'p': , 'q': }#n2
+n1_Desce_muito_muito_suavemente_2 = {'p': -0.593 , 'q': 1.45}#n1
+n2_Sobe_suavemente_2 = {'p': 0.607, 'q': -3.058 }#n2
 
 
-o_Sobe = {'p': , 'q': }
-p1_plato= {'p': , 'q': }
-p2_desce_muito_suavemente_2 = {'p': , 'q': }
-
-
-    # Comportamentos_suaves Adicionais
-Sobe_abruptamente = {'p':, 'q':}         # Cobre 6-6.5
-Sobe_suavemente = {'p':, 'q':}           # Cobre 6-6.5
-desce_muito_muito_suavemente 2 = {'p':, 'q':}# Cobre 6.96-7.5
-desce_muito_muito_suavemente = {'p':, 'q':}bre 7.5-7.82 e 7.82-8
-Sobe_muito_suavemente 2 = {'p':, 'q':} # Cobre 8-8.5
-Sobe_muito_muito_suavemente 2 = {'p':, 'q':}re 8.5-8.63 e 8.63-9
-desce_suavemente = {'p':, 'q':}        # Cobre 9-10
-
-
-    "Desce muito muito suavemente": [3.48, 3.52, 3.7, 3.75], #n1       # Cobre 3.5-3.74
-    "Sobe suavemente": [3.745, 3.8, 4.1, 4.2], #n2      # Cobre 3.74-4 
-
-    # Comportamentos Suaves
-    "Sobe": [4.15, 4.3, 4.4, 4.5], #o       # Cobre 4-4.5 
-
-    "platô" : [4.45, 4.5, 4.6, 4.68] #p1 Cobre 4.5- 4.68
-    "Desce muito muito suavemente" :  [4.65, 4.7, 4.9, 5] #p2 Cobre 4.65 - 5
-
+o_Sobe = {'p': 0.96, 'q':-4.45} #o
+p1_plato= {'p': 0.4, 'q': -1.963} #p1
+p2_desce_muito_suavemente_2 = {'p': -0.4, 'q': 1.773} #p2
