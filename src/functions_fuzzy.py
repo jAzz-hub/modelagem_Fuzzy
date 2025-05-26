@@ -3,6 +3,8 @@ from math import e, pow, sin
 
 import numpy as np
 
+from numpy import exp
+
 def func_nao_linear(x):
     return np.exp(-x/5) + 0.5 * np.sin(x)
 
